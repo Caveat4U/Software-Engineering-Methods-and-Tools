@@ -1,0 +1,3 @@
+[submodule "rottenpotatoes_hw2"]
+	path = rottenpotatoes_hw2
+	url = git@github.com:Caveat4U/hw2_rottenpotatoes.git
